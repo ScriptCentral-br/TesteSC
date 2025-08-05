@@ -1,10 +1,3 @@
---[[
-  ScriptCentral Universal - Versão Otimizada
-  
-  Este script foi refatorado para melhorar a organização,
-  reutilizar código e torná-lo mais fácil de manter.
-]]
-
 -- Inicializa a biblioteca de UI
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptCentral-br/LibraryCentral/refs/heads/main/sc", true))()
 local Window = Library:MakeWindow({
